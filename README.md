@@ -14,13 +14,13 @@
 
 צו אינסטאלן די דעפענדעסיס
 
-    ```bash
-    # מיט pip:
-    pip install .
+```bash
+# מיט pip:
+pip install .
 
-    # אדער בעסער מיט uv (https://docs.astral.sh/uv/):
-    uv sync
-    ```
+# אדער בעסער מיט uv (https://docs.astral.sh/uv/):
+uv sync
+```
 
 מאכט אייערע טוישונגען, אדער לייגט צו בלעטער אד"ג
 
