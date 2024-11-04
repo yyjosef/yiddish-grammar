@@ -1,0 +1,35 @@
+site_name: יסודות פון אידישער גראמאטיק
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  custom_dir: docs/overrides
+  language: "en"
+  direction: rtl
+  
+  font:
+    text: Open Sans
+  features:
+    - navigation.footer
+    - navigation.top
+    - toc.follow
+
+copyright: כל הזכיות שמורות &copy; יסודות פון אידישער גראמאטיק
+
+nav:
+  - "index.md"
+  - "intro.md"
+  - "pats-of-srpeech.md"
+  - "fixes.md"
+  - "sentences.md"
+  - "verbs.md"
+  - "nouns.md"
+  - "adjectives.md"
+  - "pronouns.md"
+  - "invariants.md"
+  - "dictionaries.md"
+  - "punctuation.md"
+  - "points.md"
+
+
+markdown_extensions:
+  - admonition
