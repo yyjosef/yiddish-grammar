@@ -16,7 +16,8 @@
         "docs/",
         "overrides/partials/languages/",
         "mkdocs.yml",
-        ".vscode/settings.json"
+        ".vscode/settings.json",
+        "README.md"
     ],
     "cSpell.words": [
         "mkdocs",
