@@ -1,9 +1,5 @@
 # יסודות פון אידישער גראמאטיק און אויסלייג
 
-<h1 style="text-align: center; font-weight: bold; font-size: 3em">
-    יסודות פון אידישער גראמאטיק און אויסלייג
-</h1>
-
 <div style="text-align: center; font-size: 2em">
     א האנטבוך פאר אידישע שרייבער און מגיהים
 </div>
@@ -18,15 +14,11 @@
 
 צו אינסטאלן די דעפענדעסיס
 
-    מיט pip:
-
     ```bash
+    # מיט pip:
     pip install .
-    ```
 
-    אדער בעסער מיט  [uv](https://docs.astral.sh/uv/):
-
-    ```bash
+    # אדער בעסער מיט uv (https://docs.astral.sh/uv/):
     uv sync
     ```
 
