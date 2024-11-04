@@ -1,5 +1,5 @@
 site_name: יסודות פון אידישער גראמאטיק
-site_url: https://mydomain.org/mysite
+site_url: https://yyjosef.github.io/yiddish-grammar
 theme:
   name: material
   custom_dir: docs/overrides
