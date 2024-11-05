@@ -1,6 +1,6 @@
 # יסודות פון אידישער גראמאטיק און אויסלייג
 
-<div style="align: center; font-size: 2em">
+<div style="text-align: center; font-size: 2em">
     א האנטבוך פאר אידישע שרייבער און מגיהים
 </div>
 
